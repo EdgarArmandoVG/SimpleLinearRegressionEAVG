@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1685058077 source:c:\users\linkley\desktop\simplelinearregression\main.cpp
+	<iostream>
+	<cstdlib>
+
